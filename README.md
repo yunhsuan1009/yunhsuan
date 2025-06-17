@@ -40,6 +40,8 @@
 - HW
   - [hw02](hw02.ipynb)
   - [hw03](hw03.ipynb)
+- Final Project
+  - [LINE_Bot_美食主題聊天機器人](LINE_Bot_美食主題聊天機器人.ipynb)
    
    
 
