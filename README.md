@@ -37,7 +37,7 @@
   - [EX05_02_Ask_Gemini](EX05_02_Ask_Gemini.ipynb)
   - [EX05_03_Reply_Multi_type_Messagesipynb](EX05_03_Reply_Multi_type_Messagesipynb.ipynb)
   - [EX05_04_Reply_Template_Messages](EX05_04_Reply_Template_Messages.ipynb)
-- HW02
+- HW
   - [hw02](hw02.ipynb)
   - [hw03](hw03.ipynb)
    
