@@ -39,6 +39,7 @@
   - [EX05_04_Reply_Template_Messages](EX05_04_Reply_Template_Messages.ipynb)
 - HW02
   - [hw02](hw02.ipynb)
+  - [hw03](hw03.ipynb)
    
    
 
